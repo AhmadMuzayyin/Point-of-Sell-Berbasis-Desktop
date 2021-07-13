@@ -5,7 +5,7 @@ namun tidak banyak dari para developer yang memberikan secara cuma cuma,<br>
 oleh karena itu saya mau membagikan aplikasi ini secara gratis, mungkin<br>
 teman teman berminat untuk memakainya.
 
-## Fieatur
+## Featur
 * Form Login
 * Form input menu & jenis menu
 * Form input karyawan
